@@ -1,2 +1,4 @@
 # ContextPrefAggCrowdOpinion
-Context-based Collective Preference Aggregation for Prioritizing Crowd Opinions in Social Decision-making
+Jiyi Li, "Context-based Collective Preference Aggregation for Prioritizing Crowd Opinions in Social Decision-making", In Proceedings of the Web Conference 2022 (WWW'22), to appear. 
+
+Under Construction. 
