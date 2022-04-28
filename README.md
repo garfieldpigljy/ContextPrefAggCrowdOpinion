@@ -5,5 +5,6 @@ Under Construction. Coming Soon....
 
 
 
-Our other data resources on crowdsourcing. 
+Our other data resources on crowdsourcing: 
+
 https://github.com/garfieldpigljy/ljycrowd
